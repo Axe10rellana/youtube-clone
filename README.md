@@ -1,10 +1,10 @@
-# React Youtube Clone
+# Youtube Clone
 
 ---
 
 ## Descripción
 
-Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI.
+Código Base Del Proyecto Youtube Clone Hecho En React.js y Material-UI.
 
 ---
 
@@ -20,7 +20,7 @@ Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI.
 
 ## Enlace A La Aplicación
 
-- [React Youtube Clone](https://youtube-clone-ui-ux.netlify.app/)
+- [Youtube Clone](https://youtube-clone-ui-ux.netlify.app/)
 
 ---
 
